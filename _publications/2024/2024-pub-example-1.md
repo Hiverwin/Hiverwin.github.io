@@ -8,8 +8,8 @@ abstract: >-
   This paper proposes a hybrid stock-index forecasting framework that combines variational mode decomposition, ARIMA, CNN-LSTM, and residual correction to improve prediction stability and accuracy on financial time-series data. The method integrates decomposition-based denoising with sequential modeling to better capture both trend structure and nonlinear market dynamics.
 cover:          /assets/images/covers/LSTM.png
 authors:
-  - <strong>Yutong Chen</strong>
-  - Jianting Ye
+  - Jianting Ye*
+  - <strong>Yutong Chen</strong>*
   - Jialian Li
   - Pei Deng
 links:
