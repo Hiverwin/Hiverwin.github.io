@@ -1,15 +1,15 @@
 primary_name: "Yutong Chen"
 secondary_name: ""
-navbar_name: "Infinity_Chen"
+navbar_name: "Kristine Chen"
 
 positions:
-- name: AI Researcher & Product Manager 
+- name: AI Researcher 
 
   #logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
 email: "ytchen721@outlook.com"
-cv_link: /assets/pdf/Yutong_AI_PM_Resume_CN.pdf
+cv_link: /assets/pdf/Yutong_Chen_CV(2).pdf
 #gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: Hiverwin
 #twitter: your_twitter_id  # Do not include the '@' symbol
@@ -22,15 +22,17 @@ orcid: 0009-0002-2140-7806
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    Hi! Nice to meet you 👋🏻 ! I am Yutong, a mathematic student who cares deeply about structure, clarity, and logic. I am drawn to product thinking, agent workflows, and ideas that can grow from intuition into something real, useful, and well designed.
+    Hi! Nice to meet you 👋🏻 ! I am Yutong Chen, a mathematics student who cares deeply about clarity and logic. I am currently studying in the University of Cambridge, majoring in Scientific Computing. My research interests lies in 3d reconstruction (mostly representation) and world modeling. I am looking for chance of PhD in the following 2027 or 2028!
   </p>
-  <p>
-    My personality traits are shaped by my experiences. Looking back, from 2022 to 2026, more things have changed me than I can easily name. Along the way, I have learned to value thoughtfulness, trust, and humanity, trying to become a better person.
-  </p>
+#  <p>
+#    My personality traits are shaped by my experiences. Looking back, from 2022 to 2026, more things have changed me than I can easily name. Along the way, I have learned to value thoughtfulness, trust, and humanity, trying to become a better person.
+#  </p>
+
+#  I am drawn to product thinking, agent workflows, and ideas that can grow from intuition into something real, useful, and well designed.
     
 portrait_url: /assets/images/photos/self-image.jpg
 portrait_caption: >-
-  Photo shot in classroom in my last day of university 🥺.
+  Photo shot in classroom in my last day of Undergraduate Study.
 
 education:
 - name: University of Cambridge
@@ -39,14 +41,14 @@ education:
    Mphil in Scientific Computing
   date: Oct. 2026 - present
   
-- name: University of Birmingham 
-  logo: /assets/images/badges/Birmingham.png
-  position: B.S. in Mathematics with Statistics
-  date: Sep. 2022 - Jun. 2026
+#  name: University of Birmingham 
+#  logo: /assets/images/badges/Birmingham.png
+#  position: B.S. in Mathematics with Statistics
+#  date: Sep. 2022 - Jun. 2026
 
 - name: Jinan University
   logo: /assets/images/badges/JNU.png
-  position: B.S. in Economic Statistics 
+  position: B.S. in Mathematics with Statistics & Economic Statistics 
   date: Sep. 2022 - Jun. 2026
 
 
